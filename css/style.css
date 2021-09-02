@@ -1,18 +1,13 @@
-.date_and_title {
-    display: flex;
+.content_area {
+    width: 50%;
 }
 
-.date {
-    
+article {
+
 }
 
-.title {
-    
-    
+.summary_text {
+    font-family: fantasy;
 }
-
-
-
-
 
 
