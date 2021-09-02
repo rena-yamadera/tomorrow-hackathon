@@ -1,0 +1,13 @@
+.profile{ 
+    width: 342px;
+    height: 190px;
+}
+.profileImg{
+    border-radius: 50%;
+    width: 80%;
+    height: 80%;
+}
+.name{
+    font-size: 14px;
+    font-family: '游明朝';
+}
