@@ -1,13 +1,19 @@
 .profile{ 
+    margin-top: 10%;
     width: 342px;
     height: 190px;
+    display: flex;
 }
 .profileImg{
     border-radius: 50%;
-    width: 80%;
-    height: 80%;
+    width: 150px;
+    height: 150px;
+}
+p{
+    width: 150px;
 }
 .name{
-    font-size: 14px;
+    font-size: 18px;
     font-family: '游明朝';
+    font-weight: bolder;
 }
